@@ -6,3 +6,4 @@ https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumptio
 Locate plot1.R, plot2.R, plot3.R, plot4.R into the same working directory.
 Running the codes will generate plot1.png etc.
 
+
